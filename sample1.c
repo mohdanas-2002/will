@@ -1,3 +1,13 @@
+void Add()
+{
+	c=a+b
+}
+void Sub()
+{
+	c=a-b
+}
+
+
 
 
 
